@@ -1,0 +1,43 @@
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Executables
+*.exe
+*.out
+
+# Miscellaneous
+*.swp
+*~
+.DS_Store
+
+# IDE specific files (e.g., Visual Studio, Xcode, CLion)
+.vs
+/out
+/res
+
+
+# Dependencies installed by CMake
+/build/
+
+# Generated documentation
+/doc/
+
+# Build directories
+/build/
+/bin/
+/lib/
+
+# Test/coverage reports
+/Testing/
+/coverage/
+
+# Packaging-related
+/package/
